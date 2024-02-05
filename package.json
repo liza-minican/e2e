@@ -1,0 +1,13 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liza-minican/e2e.git",
+  "author": "ELizaveta Minican <elizaveta.minican@mentimeter.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16"
+  },
+  "scripts": {}
+}
